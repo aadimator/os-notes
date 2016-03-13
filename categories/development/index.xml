@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on OS-Notes - aadimator</title>
-    <link>http://replace-this-with-your-hugo-site.com/categories/development/</link>
+    <link>http://aadimator.github.io/os-notes/categories/development/</link>
     <description>Recent content in Development on OS-Notes - aadimator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Mar 2016 14:40:21 +0500</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://aadimator.github.io/os-notes/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Intro</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/Intro/</link>
+      <link>http://aadimator.github.io/os-notes/post/Intro/</link>
       <pubDate>Sun, 13 Mar 2016 14:40:21 +0500</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/Intro/</guid>
+      <guid>http://aadimator.github.io/os-notes/post/Intro/</guid>
       <description>&lt;p&gt;This is just for &lt;strong&gt;testing&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
