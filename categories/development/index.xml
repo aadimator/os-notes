@@ -10,19 +10,28 @@
     <atom:link href="http://aadimator.github.io/os-notes/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Intro</title>
+      <title>Introduction</title>
       <link>http://aadimator.github.io/os-notes/post/Intro/</link>
       <pubDate>Sun, 13 Mar 2016 14:40:21 +0500</pubDate>
       
       <guid>http://aadimator.github.io/os-notes/post/Intro/</guid>
-      <description>&lt;p&gt;This is just for &lt;strong&gt;testing&lt;/strong&gt;.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;My name is &lt;strong&gt;Aadam&lt;/strong&gt;. I am doing BS Computer Science from &lt;strong&gt;University of Haripur (UOH)&lt;/strong&gt;. I love coding as this is the time when I feel most alive and closer to my Creator because I am creating something, something mine, something original.&lt;/p&gt;
+
+&lt;p&gt;I am passionate about &lt;em&gt;programming&lt;/em&gt; and read a lot of books and articles. I can do so easily because I love it, and if you love something, it doesn&amp;rsquo;t feel like a chore, but fun instead. Because of this, constant learning, I am somewhat good at programming, of course. I have participated in several on-spot programming competitions and seminars.&lt;/p&gt;
+
+&lt;p&gt;Because of my reputation as a programmer, I&amp;rsquo;ve been assigned a tiresome and difficult task of explaining Operating System concepts via programming to my class-fellows by my prestigious teacher, &lt;em&gt;Kamran H. Khan&lt;/em&gt;. Programming isn&amp;rsquo;t tiresome or difficult but explaining it is, at least for me. Although public speaking is not one of my strong suits, I am willing to do my best knowing that this is a great opportunity for me to polish my skills. What doesn&amp;rsquo;t kill you makes you stronger.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-to-expect:ad313508e3b44a067229577553308d3b&#34;&gt;What to expect&lt;/h2&gt;
+
+&lt;p&gt;These are the notes that I prepare for myself before presentations. The purpose of these presentations is to show some operating systems concepts like &lt;em&gt;process creation, process scheduling, thread creation&lt;/em&gt; etc. We&amp;rsquo;ll be using the &lt;strong&gt;Linux Operating System&lt;/strong&gt; as this is the most customizable and developer friendly OS and we can easily see what&amp;rsquo;s happening under the hood. We&amp;rsquo;ll use the &lt;strong&gt;C&lt;/strong&gt; language for programming as this is the lowest level programming language after assembly language and the most widely used system-programming language.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll sometimes use examples from &lt;a href=&#34;http://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333/ref=dp_ob_title_bk&#34;&gt;Operating System Concepts&lt;/a&gt; which has some C programs to help solidify the operating system concepts like forking etc.&lt;/p&gt;
+
+&lt;p&gt;Another thing, I&amp;rsquo;ll try my best to explain these difficult concepts and programs but I&amp;rsquo;m sure there will be times when I can&amp;rsquo;t do justice to some topic or when I understood it wrong, so keep in mind that I am a student and not an expert, be it Linux administration or low-level C programs, but I can assure you of one thing; if later on I find that there is a better way to explain something or a better way to do some task than what I already did before, I&amp;rsquo;ll definitely share it with you. You can count on it.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, feel free to ask them in the comments below.&lt;/p&gt;
 </description>
     </item>
     
